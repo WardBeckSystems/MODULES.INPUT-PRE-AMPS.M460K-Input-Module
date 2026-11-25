@@ -1,5 +1,5 @@
 # 1974 - M460K - Input Module Schematic.jpg
-Wiki page: [M460K](../../../PAGES/M460K.md)
+Wiki page: [M460K](../../../../PAGES/M460K.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -48,7 +48,7 @@ et9 1 1
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460K/1974 - M460K - Input Module Schematic.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M460K/SCHEMATICS/1974 - M460K - Input Module Schematic.jpg",
  "sha256": "58455ef040112c01ec53ebf2e9bc28155ca66853e12069feece1349bdc4ed54f",
  "kind": "module",
  "models": [
